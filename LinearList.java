@@ -1,4 +1,4 @@
-package CircularLinkedList;
+package DoubleLinkedList;
 
 public interface LinearList {
     public boolean isEmpty();
